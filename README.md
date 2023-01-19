@@ -1,2 +1,2 @@
 # Binary-converter
-Test project for school.
+8-bit binary converter I made at beginnin in school.
